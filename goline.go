@@ -6,8 +6,8 @@ import (
 	"net/http"
 	"strings"
 
-	"github.com/shillbie/register/LineThrift"
-	"github.com/shillbie/register/thrift"
+	"github.com/leeversion0404/register/LineThrift"
+	"github.com/leeversion0404/register/thrift"
 
 	"github.com/valyala/fasthttp"
 )
