@@ -8,8 +8,8 @@ import (
 	"net/url"
 	"strings"
 
-	"github.com/shillbie/register/LineThrift"
-	"github.com/shillbie/register/thrift"
+	"github.com/leeversion0404/LineThrift/LineThrift"
+	"github.com/leeversion0404/LineThrift/thrift"
 
 	"github.com/valyala/fasthttp"
 	"github.com/valyala/fasthttp/fasthttpproxy"
