@@ -8,8 +8,8 @@ import (
 	"net/http"
 	"net/url"
 
-	"github.com/shillbie/register/LineThrift"
-	"github.com/shillbie/register/helper"
+	"github.com/leeversion0404/register/LineThrift"
+	"github.com/leeversion0404/register/helper"
 	//"fmt"
 	//"encoding/json"
 )
