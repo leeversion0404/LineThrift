@@ -10,7 +10,7 @@ import (
 	"fmt"
 	"reflect"
 
-	"github.com/shillbie/register/thrift"
+	"github.com/leeversion0404/LineThrift/thrift"
 )
 
 type UpdateAttributeType int64
