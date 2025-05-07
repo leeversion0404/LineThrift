@@ -8,7 +8,7 @@ import (
 	"reflect"
 	"strconv"
 
-	"github.com/shillbie/register/thrift"
+	"github.com/leeversion0404/LineThrift/thrift"
 )
 
 // (needed to ensure safety because of naive import list construction.)
