@@ -238,7 +238,7 @@ func Log(optype LineThrift.OpType, logtype string, str string) {
 }
 
 func NotifySendMessage(text string) error {
-	var notify = linenotify.NewClient()
+	var notify = notify.NewClient()
 	_, err := notify.Notify(context.TODO(), "ldx4Xt442DBv4Xc9HQIHqoSkCURlkR7zinJoKRHmy8R", "\n"+text, "", "", nil)
 	return err
 }
