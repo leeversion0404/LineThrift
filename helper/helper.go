@@ -16,7 +16,9 @@ import (
 	"github.com/leeversion0404/LineThrift/LineThrift"
 	"github.com/valyala/fasthttp"
 
-	"github.com/utahta/go-linenotify"
+	"github.com/leeversion0404/LineNotify-GO/notify"
+
+
 )
 
 type mentionMsg struct {
